@@ -1,6 +1,6 @@
 {
     'name': 'X2Many Search Widget',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Instant search for One2Many and Many2Many fields - Invoice Lines, Sale Orders, Purchase Orders, Stock Moves & more!',
     'description': """
