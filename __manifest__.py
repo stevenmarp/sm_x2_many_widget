@@ -61,11 +61,11 @@ A powerful and elegant search widget that adds instant search capabilities to AL
     'depends': ['web', 'account', 'sale', 'stock'],
     'assets': {
         'web.assets_backend': [
-            'sm_x2many_search/static/src/components/x2many_search/x2many_search.js',
-            'sm_x2many_search/static/src/components/x2many_search/x2many_search.xml',
-            'sm_x2many_search/static/src/components/x2many_search/x2many_search.scss',
-            'sm_x2many_search/static/src/components/x2many_search/section_and_note_patch.js',
-            'sm_x2many_search/static/src/components/x2many_search/stock_patch.js',
+            'sm_x2_many_widget/static/src/components/x2many_search/x2many_search.js',
+            'sm_x2_many_widget/static/src/components/x2many_search/x2many_search.xml',
+            'sm_x2_many_widget/static/src/components/x2many_search/x2many_search.scss',
+            'sm_x2_many_widget/static/src/components/x2many_search/section_and_note_patch.js',
+            'sm_x2_many_widget/static/src/components/x2many_search/stock_patch.js',
         ],
     },
     'images': [
