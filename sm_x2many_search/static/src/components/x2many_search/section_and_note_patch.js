@@ -10,7 +10,7 @@ import {
     ProductLabelSectionAndNoteOne2Many,
     ProductLabelSectionAndNoteListRender,
     productLabelSectionAndNoteOne2Many,
-} from "@account/components/product_label_section_and_note_field/product_label_section_and_note_field";
+} from "@account/components/product_label_section_and_note_field/product_label_section_and_note_field_o2m";
 import { 
     SectionAndNoteFieldOne2Many, 
     SectionAndNoteListRenderer,

@@ -19,7 +19,7 @@ A powerful and elegant search widget that adds instant search capabilities to AL
 * 🔀 AND/OR Mode - Combine multiple filters with logic operators
 * 📱 Row Counter Badge - Shows filtered count vs total (e.g., "5/100")
 * ⌨️ Keyboard Shortcuts - Full keyboard navigation support
-* 🎨 Modern UI - Beautiful glassmorphism design matching Odoo 18
+* 🎨 Modern UI - Beautiful glassmorphism design matching Odoo 19
 
 ✅ Automatically Works With
 --------------------------
@@ -50,7 +50,7 @@ A powerful and elegant search widget that adds instant search capabilities to AL
 
 📋 Requirements
 --------------
-* Odoo 18.0 (Community or Enterprise)
+* Odoo 19.0 (Community or Enterprise)
 
     """,
     'author': 'Steven Marp',
