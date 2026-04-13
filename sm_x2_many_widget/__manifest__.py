@@ -1,11 +1,11 @@
 {
-    'name': 'X2Many Search Widget',
+    'name': 'Order Line Search Widget',
     'version': '18.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Instant search for One2Many and Many2Many fields - Invoice Lines, Sale Orders, Purchase Orders, Stock Moves & more!',
     'description': """
-X2Many Search Widget
-====================
+Order Line Search Widget
+========================
 
 A powerful and elegant search widget that adds instant search capabilities to ALL One2Many and Many2Many fields in Odoo.
 
